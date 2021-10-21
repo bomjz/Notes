@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Notes</string>
+    <string name="notes_name">Название</string>
+    <string name="notes_desc">Описание</string>
+    <string name="notes_date">Дата создания</string>
 </resources>
